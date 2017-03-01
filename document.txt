@@ -1,0 +1,18 @@
+- pointage simple et multiple (retard et heure supp)
+- fiche paye (- retard + heure supp)
+- insertion employe
+- login admin
+
+----------------------------------xxxxxxxxxxxxxxxx-------------------------------------------
+
+script BDD
+script insertion
+
+apetraka anaty git oub svn
+
+alef anaty Postrgresql ou mysql
+
+-----------------
+Acces au donnee ou DAO : JDBC,Hibernate, Framework fait maison
+Metier ou Service : Spring => exposé webservice Soap/Rest
+Presentation : Struts, Framework fait maison, JQuery(Js)
